@@ -16,7 +16,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMedi
 async def start(client, message):
     buttons = [[
         InlineKeyboardButton('☀️ Support Group ☀️', url='https://t.me/malik_support_group'),
-        InlineKeyboardButton('♻️ Update Channel ♻️', url='https://t.me/s_house786')
+        InlineKeyboardButton('♻️ Update Channel ♻️', url='https://t.me/m_house786')
         ],[
         InlineKeyboardButton('❤️ SouceCode ❤️', url='https://t,me/malik_bots'),
         InlineKeyboardButton('String Session 🎻', url ='https://replit.com/@JijinR/PyroSessionString?v=1')
