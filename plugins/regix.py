@@ -86,7 +86,7 @@ async def pub_(bot, message):
                 buttons = [[
                     InlineKeyboardButton('☀️ Support Group ☀️', url='https://t.me/malik_support_group')
                     ],[
-                    InlineKeyboardButton('💥 Update Channel 💥', url='https://t.me/m_house786)
+                    InlineKeyboardButton('💥 Update Channel 💥', url='https://t.me/m_house786')
                 ]]
                 reply_markup = InlineKeyboardMarkup(buttons)
                 await m.edit_text(
