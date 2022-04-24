@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @DarkzzAngel
+# (c) @sahid_malik
 
 import os
 import sys
@@ -84,9 +84,9 @@ async def pub_(bot, message):
                 await m.edit_text(f'Error: {e}')
             else:
                 buttons = [[
-                    InlineKeyboardButton('📜 Support Group', url='https://t.me/DxHelpDesk')
+                    InlineKeyboardButton('☀️ Support Group ☀️', url='https://t.me/malik_support_group')
                     ],[
-                    InlineKeyboardButton('📡 Update Channel', url='https://t.me/DX_Botz')
+                    InlineKeyboardButton('💥 Update Channel 💥', url='https://t.me/m_house786)
                 ]]
                 reply_markup = InlineKeyboardMarkup(buttons)
                 await m.edit_text(
