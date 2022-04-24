@@ -9,16 +9,16 @@
     "forward",
     "bot"
   ],
-  "success_url": "https://t.me/DForDarkAngel",
-  "website": "https://github.com/malik7983/Frwdit-V2",
-  "repository": "https://github.com/Jijinr/Frwdit-V2",
+  "success_url": "https://t.me/sahid_malik",
+  "website": "https://github.com/malik7983/frowerdbot2",
+  "repository": "https://github.com/Savezmalik002/frowerdbot2",
   "env": {
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org or @UseTGSBot",
+      "description": "Get this value from https://my.telegram.org or @malik_bots",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org or @UseTGSBot",
+      "description": "Get this value from https://my.telegram.org or @malik_bots",
       "value": ""
     },
     "BOT_TOKEN": {
